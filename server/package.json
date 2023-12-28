@@ -19,7 +19,7 @@
   "author": "sawangpong muadphet <itbakerydev@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@types/node": "^11.9.4",
+    "@types/node": "^11.15.54",
     "assert": "^1.4.1",
     "asset": "^0.4.13",
     "bcrypt": "^3.0.6",

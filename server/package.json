@@ -33,7 +33,7 @@
     "http-proxy-middleware": "^0.19.1",
     "json2csv": "^4.3.2",
     "jsonwebtoken": "^8.4.0",
-    "ldapjs": "^1.0.2",
+    "ldapjs": "^3.0.7",
     "ldapts": "^1.4.1",
     "lodash": "^4.17.14",
     "moment": "^2.24.0",

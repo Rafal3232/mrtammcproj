@@ -16,7 +16,7 @@
     "mongoose": "^5.5.12",
     "node-fetch": "^2.6.0",
     "read-xml": "^3.0.0",
-    "request": "^2.88.0",
+    "request": "^2.88.2",
     "xml-js": "^1.6.11"
   }
 }
